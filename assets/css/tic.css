@@ -1,0 +1,49 @@
+body{
+background : black;
+}
+.container{
+	color: white;
+	text-align: center;
+	font-size: 30px;
+}
+.box{
+	overflow: hidden;
+	margin: 0.2px;
+}
+.box > div{
+	height: 150px;
+	width: 150px;
+	background-color: #DCDCDC;
+	padding: 10px;
+	border: 0.2px solid black;
+	margin: 0.2px;
+	float: left;
+}
+.all{
+	margin-left: 420px;
+	margin-top: 50px;
+}
+.c1{
+	color: none;
+}
+.c2{
+	color: none;
+}
+button{
+	font-size: 15px;
+	height: 30px;
+	width: 150px;
+	padding: 20px;
+	text-align: center;
+	padding-top: 5px;
+}
+.new1{
+	padding: 20px;
+}
+.fin{
+	text-align: center;
+	padding: 30px;
+	margin: -8px;
+	height: 30px;
+	background: #DCDCDC;
+}
