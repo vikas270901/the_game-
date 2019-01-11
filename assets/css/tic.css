@@ -21,8 +21,9 @@ background : black;
 	float: left;
 }
 .all{
-	position: relative;
-	margin-left: 420px;
+	margin-right: auto;
+	margin-left: auto;
+	display: table;
 	margin-top: 50px;
 }
 .c1{
