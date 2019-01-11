@@ -5,7 +5,6 @@ background : black;
 	color: white;
 	text-align: center;
 	font-size: 30px;
-	width: 1288px;
 }
 .box{
 	overflow: hidden;
@@ -51,6 +50,5 @@ button{
 	padding: 30px;
 	margin: -8px;
 	height: 20px;
-	width: 1288px;
 	background: white;
 }
