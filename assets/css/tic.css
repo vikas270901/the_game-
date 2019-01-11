@@ -5,6 +5,7 @@ background : black;
 	color: white;
 	text-align: center;
 	font-size: 30px;
+	width: 1288px;
 }
 .box{
 	overflow: hidden;
@@ -20,7 +21,7 @@ background : black;
 	float: left;
 }
 .all{
-        text-align : center;
+	position: relative;
 	margin-left: 420px;
 	margin-top: 50px;
 }
@@ -39,12 +40,16 @@ button{
 	padding-top: 5px;
 }
 .new{
+	width: 1288px;
 	padding: 20px;
 }
 .fin{
 	text-align: center;
+	position: static;
+	bottom: 0px;
 	padding: 30px;
 	margin: -8px;
-	height: 30px;
-	background: #DCDCDC;
+	height: 20px;
+	width: 1288px;
+	background: white;
 }
