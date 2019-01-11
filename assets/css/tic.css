@@ -20,6 +20,7 @@ background : black;
 	float: left;
 }
 .all{
+        text-align : center;
 	margin-left: 420px;
 	margin-top: 50px;
 }
@@ -37,7 +38,7 @@ button{
 	text-align: center;
 	padding-top: 5px;
 }
-.new1{
+.new{
 	padding: 20px;
 }
 .fin{
