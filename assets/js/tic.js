@@ -45,4 +45,6 @@ function start(){
 	$(".box > div").html("");
 	$(".box > div").removeClass("c1");
 	$(".box > div").removeClass("c2");
+	$(".win2").html("<p align='center' style='color : white'>Started!!</p>");
+	$(".win1").html("<p align='center' style='color : white'></p>");
 };
